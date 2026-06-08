@@ -6,15 +6,17 @@ A full-stack task management application built using **React**, **Node.js**, **E
 
 ### Login Page
 
-![Login](./screenshots/login.png)
+<img width="960" height="367" alt="image" src="https://github.com/user-attachments/assets/7827ad56-42b1-466e-8317-5312bc664b2a" />
+
 
 ### Register Page
 
-![Register](./screenshots/register.png)
+<img width="960" height="431" alt="image" src="https://github.com/user-attachments/assets/c40c0c62-8238-432a-905d-ef7c6630b9f3" />
+
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+<img width="635" height="462" alt="image" src="https://github.com/user-attachments/assets/728baf79-7838-4d1f-925e-6df7c3934472" />
 
 ## Features
 
