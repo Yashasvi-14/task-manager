@@ -1,5 +1,6 @@
 import { useState } from "react";
 import API from "../services/api";
+import { Link } from "react-router-dom";
 
 function Register() {
   const [form, setForm] = useState({
@@ -70,6 +71,12 @@ function Register() {
           Register
         </button>
       </form>
+      <p>
+  Already have an account?{" "}
+  <Link to="/">
+    Login here
+  </Link>
+</p>
     </div>
   );
 }
